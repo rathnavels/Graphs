@@ -58,3 +58,4 @@ dkms.conf
 !*.c
 !Makefile
 !*.md
+!*.cpp
