@@ -1,6 +1,6 @@
 CC 		= g++
 CFLAGS		= -Wall
-OBJFILES	= main.o simpleGraph01.o
+OBJFILES	= main.o simpleGraph01.o simpleBFS01.o
 TARGET 		= main
 
 all: $(TARGET)

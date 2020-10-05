@@ -2,9 +2,10 @@
 using namespace std;
 
 void runSimpleGraph01();
+void runBFS01();
 
 int main()
 {
-	runSimpleGraph01();
+	runBFS01();
 	return 0;
 }
